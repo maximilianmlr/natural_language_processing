@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section*.2}{Abbildungsverzeichnis}{}% 1
+\BOOKMARK [1][-]{section*.3}{Tabellenverzeichnis}{}% 2
+\BOOKMARK [1][-]{section.1}{Einleitung}{}% 3
+\BOOKMARK [1][-]{section.2}{Maschinelles Lernen zur Textverarbeitung}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Datenvorbereitung}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Tokenisierung und Textvorbereitung}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Wortverarbeitung}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Vektorisierung}{subsection.2.1}% 8
+\BOOKMARK [2][-]{subsection.2.2}{Algorithmen}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Lineare Regressionsmodelle, logistische Regression}{subsection.2.2}% 10
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Stochastic Gradient Descent}{subsection.2.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Naive Bayes Classifier}{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Random Forests}{subsection.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Mehrlagiges Perzeptron \(MLP, Multi-Layer Perceptron\)}{subsection.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.2.6}{Bird-Swarm-Algorithmus}{subsection.2.2}% 15
+\BOOKMARK [1][-]{section.3}{Anwendung}{}% 16
+\BOOKMARK [1][-]{section.4}{Fazit}{}% 17
+\BOOKMARK [1][-]{section.5}{Literatur}{}% 18
