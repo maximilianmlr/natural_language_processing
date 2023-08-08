@@ -40,7 +40,5 @@ This GitHub repository contains a Python script for sentiment analysis and machi
       <li>The code can be extended and modified to accommodate other datasets and further analysis.</li>
   </ul>
 
-  <p>Enjoy exploring sentiment analysis and machine learning classification with this script! Feel free to
-      contribute and enhance the code as per your requirements.</p>
 
 
