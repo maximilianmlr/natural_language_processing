@@ -2,6 +2,8 @@
 
   <h1>Sentiment Analysis and Machine Learning Classification</h1>
 
+This GitHub repository contains a Python script for sentiment analysis and machine learning classification of text data using various algorithms. The script leverages popular libraries such as pandas, nltk, matplotlib, numpy, textblob, re, sklearn, wordcloud, and more. It showcases a comprehensive workflow that includes data preprocessing, feature extraction, model training, evaluation, and analysis.
+
   <h2>Features</h2>
   <ul>
       <li>Data is sourced from multiple datasets (Yelp, Amazon, IMDB) and consolidated into a single dataframe for
